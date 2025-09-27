@@ -1,4 +1,4 @@
-# Uber Trends Analytics — 2024 Ride Data
+# Uber Trends Analytics (2024 Ride Data)
 
 This project explores Uber’s 2024 ride data with a focus on:
 - Booking trends across vehicle types
